@@ -10,6 +10,7 @@ echo " "
 echo -e "\e[0;38;5;209mSe instalaran los perfiles de colores para tilix\e[0m"
 	cp -r tilix ~/.config/
 	cp biraXim.zsh-theme ~/.oh-my-zsh/themes/
+	cp -r neofetch ${HOME}/.config/
 echo " "
 echo " Se instalo en: ~/.config/tilix/schemes/ "
 echo " "
@@ -27,6 +28,8 @@ echo " "
 echo " Se intalo el tema del pront zsh en ~/.oh-my-zsh/themes/"
 echo -e "Nombre del tema:\e[0;38;5;209m biraXim \e[0m"
 echo " "
+echo " Se instalo logo Neofetch en: ~/.config/neofetch/ "
+echo " "
 	date
 echo " "
 
@@ -34,3 +37,4 @@ echo " "
 # Ejecutar con ./tilix-colores-Install.sh
 
 # mar 13 dic 2022 15:36:48 CST
+# lun 26 dic 2022 20:25:38 CST
