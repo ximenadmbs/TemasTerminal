@@ -25,6 +25,8 @@ Ejecutar el comando **-n** para que no cambie el wallpaper actual si lo quitamos
     
     wal -i '/home/imagen.jpg' -n
 
+    wal -i -n
+
  > si surgen problemas con bash o reiniciar la secion.
 
 ------------------------------------
