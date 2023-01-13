@@ -1,6 +1,5 @@
-                                                                                          
-                                      ..                                                  
-                                      lo.                                                 
+echo "                                      ..                                                  
+                                      lo.                                               
                                       od.                                                 
                                       od..:c:,.                                           
                                       .' ,k0ko'                                           
@@ -38,5 +37,4 @@
                    .:dddddd:...                            ...cdddddo'   .                
                   .coddddoc'                                  ,lodddoo:.                  
                   .;lddoc,                                     .;ldddl,                   
-                    .;:,.                                        .;:,.                    
-                                                                                          
+                    .;:,.                                        .;:,."
